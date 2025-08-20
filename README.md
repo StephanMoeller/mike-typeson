@@ -14,9 +14,9 @@ An stl can be found directly in this repo (mike-typeson.stl)
 
 To build this, the following things are needed:
 
-3d printed case
-PCB
-THT diodes (30 pieces)
-Khailh mx sockets (30 pieces)
-A xiao rp2040 microcontroller
-16 jumper wires with female dupont in both ends
+- 3d printed case
+- PCB
+- THT diodes (30 pieces)
+- Khailh mx sockets (30 pieces)
+- A xiao rp2040 microcontroller
+- 16 jumper wires with female dupont in both ends
