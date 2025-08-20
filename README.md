@@ -9,3 +9,12 @@ This is my first keyboard that has a home grown pcb. It is wired as a unibody ev
 
 The 3d model can be found here: https://cad.onshape.com/documents/7e18701322fe8efaf0180c4f/w/a36590332a2ae1251c32ad98/e/2509fc05bb245310630f5e48?renderMode=0&uiState=68a64716a2e5bb13277ed67f
 An stl can be found directly in this repo (mike-typeson.stl)
+
+To build this, the following things are needed:
+
+3d printed case
+PCB
+THT diodes (30 pieces)
+Khailh mx sockets (30 pieces)
+A xiao rp2040 microcontroller
+16 jumper wires with female dupont in both ends
