@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "keyboard")(type "KiCad")(uri "C:/Users/stephan/pcb_test/singlepcbino/keyboard.kicad_sym")(options "")(descr ""))
+)
