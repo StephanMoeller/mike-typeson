@@ -1,4 +1,4 @@
-e# Mike Typeson
+# Mike Typeson
 This is my first keyboard that has a home grown pcb. It is wired as a unibody even though the electronics are in 3 pieces.
 ![b1fb5cf4-bc29-4709-b4f0-31c480e18a1a](https://github.com/user-attachments/assets/3383c348-23bf-4926-b3cf-6a0a1c132462)
 ![442bb95f-c870-497b-adc6-8a3ebe000fcf](https://github.com/user-attachments/assets/79713de8-aec9-4f0a-b66b-3de972b3178c)
